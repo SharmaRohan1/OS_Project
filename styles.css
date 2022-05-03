@@ -1,0 +1,81 @@
+body{
+  background-color: rgb(253, 255, 254);
+}
+
+.navbar{
+  border-bottom: 1.5px solid #47cf73;
+}
+
+.navbar-brand img {
+  border-radius: 100%;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-footer {
+  border-top: 1.5px solid #47cf73;
+}
+
+.jumbotron {
+  border: 1.5px solid #47cf73;
+}
+.jumbotron:hover {
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+
+.fcfs-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+footer {
+  border-top: 1.5px solid #47cf73;
+  margin-top: 40px;
+  padding: 40px;
+}
+
+.fcfs-btn,
+.sjf-btn,
+.priority-btn,
+.rr-btn {
+  border-radius: 5px;
+}
+
+.fcfs-card:hover {
+  border: 1.5px solid #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+
+.fcfs-btn:hover {
+  background-color: #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+
+.sjf-card:hover {
+  border: 1px solid #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+.sjf-btn:hover {
+  background-color: #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+
+.priority-card:hover {
+  border: 1px solid #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+.priority-btn:hover {
+  background-color: #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+
+.rr-card:hover {
+  border: 1px solid #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}
+.rr-btn:hover {
+  background-color: #47cf73;
+  box-shadow: 0 4px 4px 0 rgb(185, 185, 185);
+}

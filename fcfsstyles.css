@@ -1,0 +1,36 @@
+.navbar-brand img {
+  border-radius: 100%;
+}
+
+body {
+  background-color: rgb(253, 255, 254);
+}
+
+.navbar {
+  border-bottom: 1.5px solid #47cf73;
+}
+
+.jumbotron {
+  border: 1.5px solid #47cf73;
+}
+
+footer{
+    border-top: 1.5px solid #47cf73;
+}
+
+fresh th {
+  background: linear-gradient(WhiteSmoke, lightgray);
+  text-align: left;
+  border: 1px solid black;
+  height: 400 px;
+}
+fresh td {
+  border: 1px solid black;
+  border-bottom: 0;
+  /*border-right: 0;*/
+  height: 20px;
+  text-align: left;
+}
+#curtain {
+  background-color: white;
+}
